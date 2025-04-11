@@ -1,0 +1,32 @@
+*{
+
+}
+
+body{
+	justify-content: center;
+	text-align:center;
+	background-color: papayawhip;
+}
+
+.header{ 
+	padding:10px;
+	background-color: #97BDAE;
+	color:white;
+}
+
+.inputting{ 
+	margin-left: 160px;
+	margin-right: 160px;
+	margin-top: 150px;
+	margin-bottom: 150px;
+	background-color: #97BDAE;
+	color: white;
+	padding: 50px;
+	border-radius: 15px;
+}
+
+.footer{ 
+	background-color: #97BDAE;
+	padding: 10px;
+	margin-top: 250px;
+}
